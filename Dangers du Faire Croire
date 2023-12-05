@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dangers du "Faire Croire"</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+        }
+        section {
+            margin: 20px 0;
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dangers du "Faire Croire"</h1>
+    </header>
+
+    <section>
+        <h2>Introduction</h2>
+        <p>Le "faire croire" est une pratique dangereuse qui peut causer des problèmes et des conséquences néfastes. Ce site vise à informer et à fournir des conseils pour éviter de se faire berner.</p>
+    </section>
+
+    <section>
+        <h2>Conseils pour Éviter de se Faire Berner</h2>
+        <ul>
+            <li><strong>Soyez sceptique :</strong> Remettez en question les informations douteuses et ne croyez pas tout sans vérification.</li>
+            <li><strong>Vérifiez les sources :</strong> Assurez-vous que les informations proviennent de sources fiables et vérifiables.</li>
+            <li><strong>Éduquez-vous :</strong> Informez-vous sur les différentes tactiques de manipulation et de tromperie.</li>
+            <li><strong>Pensez critique :</strong> Analysez les informations de manière critique et ne vous laissez pas influencer facilement.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Dangers du "Faire Croire". Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
